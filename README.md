@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/uttamkamar.png"  />
+<img align="right" height="150" src="https://github.com/uttamkamar/uttamkamar/blob/main/pic.gif"  />
 
 ###
 
