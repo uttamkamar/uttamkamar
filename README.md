@@ -1,79 +1,133 @@
-<h2 align="left">Hi 👋! My name is  Uttam and I'm a Fullstack Developer from India</h2>
+<div align="center">
 
-###
+# Hey, I'm Uttam Kamar 👋
+
+### Senior Web Developer · Cloud & DevOps Enthusiast
+
+**I build, optimize, and secure web platforms — and I'm expanding that foundation into cloud infrastructure, automation, and reliable deployments.**
+
+<p>
+  <a href="https://github.com/uttamkamar">
+    <img src="https://img.shields.io/badge/GitHub-uttamkamar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud and DevOps focus" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-2E8B57?style=for-the-badge" alt="6+ years of experience" />
+</p>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+reliable+web+experiences;Automating+deployments+and+workflows;Learning%2C+shipping%2C+improving+every+day" alt="Animated introduction" />
+</a>
+
+</div>
+
+---
+
+## `whoami`
+
+I'm a **Senior Web Developer** with 6+ years of experience building, optimizing, and securing WordPress and WooCommerce platforms for international clients. I enjoy solving production problems, improving performance, and turning complex requirements into maintainable systems.
+
+I'm now strengthening my **Cloud & DevOps engineering** skill set — with a focus on Linux, AWS, containers, Kubernetes, CI/CD, infrastructure, monitoring, and deployment automation.
+
+- 🛠️ **Web engineering:** WordPress, WooCommerce, JavaScript, React, Node.js, and TypeScript
+- ☁️ **Cloud & operations:** AWS, Linux administration, Docker, Kubernetes, CI/CD, and troubleshooting
+- 🔐 **Engineering mindset:** Security-first thinking, performance, reliability, and data-preserving changes
+- 🤝 **Collaboration:** Technical ownership, team leadership, and clear client communication
+- 🌱 **Current direction:** Building practical projects that connect software development with cloud operations
+
+## 📈 Impact in production
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h2>40%</h2>
+      <sub>Reported performance improvement</sub>
+    </td>
+    <td align="center" width="33%">
+      <h2>100+</h2>
+      <sub>Security vulnerabilities addressed</sub>
+    </td>
+    <td align="center" width="33%">
+      <h2>99.9%</h2>
+      <sub>Production uptime maintained</sub>
+    </td>
+  </tr>
+</table>
+
+## 🧰 Technology toolbox
+
+### Web development
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,php,js,ts,react,nodejs,express,html,css" alt="Web development technologies" />
+</p>
+
+### Cloud, DevOps & infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,githubactions,git,bash" alt="Cloud and DevOps technologies" />
+</p>
+
+### Databases & services
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Databases and services" />
+</p>
+
+> My toolkit evolves with the problem. I focus on understanding the system, choosing the right tool, and operating it safely.
+
+## 🚀 Selected work
+
+### Loan Book
+A loan-management application focused on tracking loan records, repayments, balances, and supporting documents.
+
+- Loan and borrower records
+- Payment tracking and financial summaries
+- Dashboard usability and data protection considerations
+
+**Repository:** [uttamkamar/Loan-book](https://github.com/uttamkamar/Loan-book)
+
+### More projects
+Explore my repositories for web development experiments, application work, and ongoing technical learning.
+
+**Browse all repositories:** [github.com/uttamkamar?tab=repositories](https://github.com/uttamkamar?tab=repositories)
+
+## 📊 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uttamkamar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uttamkamar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://github.com/uttamkamar/uttamkamar/blob/main/pic.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="30" alt="woocommerce logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/uttamkamar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://github.com/uttamkamar">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=uttamkamar&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="GitHub statistics" />
   </a>
-  <a href="https://www.facebook.com/uttam.kamar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/kamaruttam/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCB6omlmrUi43IWJ7RoZh3hg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="kamaruttam@gmai.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/13446150/uttam-kamar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  <a href="https://github.com/uttamkamar">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttamkamar&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
   </a>
 </div>
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=uttamkamar&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<sub>Stats and language charts are provided by third-party services and may occasionally be unavailable or differ from GitHub's own metrics.</sub>
 
-###
+## 🎯 What I'm focused on
+
+- Building practical cloud and DevOps projects
+- Improving CI/CD workflows and deployment reliability
+- Deepening my AWS, Docker, Kubernetes, and Linux skills
+- Applying security and observability practices throughout the delivery lifecycle
+
+## 🤝 Let's connect
+
+I'm always happy to connect with developers, exchange ideas, and discuss web engineering, cloud infrastructure, automation, and production reliability.
+
+<p>
+  <a href="https://github.com/uttamkamar">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+**Build thoughtfully. Automate wisely. Keep improving.** 🚀
+
+<sub>Thanks for stopping by!</sub>
+
+</div>
